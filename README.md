@@ -62,7 +62,7 @@ As for how to optimise your decision tree, its realising exactly what decisions 
 * Can i bop him?, is the boss tauntable?, is another tank 2nd on threat?, worth the risk of messing threat up?
 * Can i use Holy shock on him?, would it make a difference?
 * Try flash of light(1.5s cast) or holy light(2.5s cast) and hope a druid can instant heal him?, that allows me to land my heal?
-* Should i Lay on Hands him, making me go oom?, but he'll be saved?
+* Should i Lay on Hands him, making me go oom?, but he'll be saved?, do i have major mana pot, rune cd or flask, ready to recover mana?
 
 If i had to think about all these things every single heal, my reaction times would probably be close to 400ms, so what instead happens is that we think of these questions beforehand, if a tank take sudden huge damage spike, am i willing to loh?, yes i am. So you KNOW the answer to this question beforehand, and if you're willing to do that, the very first question on your desicion tree is:
 * Is he the tank?
